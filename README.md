@@ -10,5 +10,5 @@ Cost Explorer → S3 → Athena → QuickSight
 - AWS Cost Explorer
 - Amazon S3
 - Amazon Athena
-- Amazon QuickSight
+- Power BI
 
