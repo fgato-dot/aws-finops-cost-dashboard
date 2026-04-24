@@ -1,14 +1,18 @@
 # AWS FinOps Cost Dashboard
 
 ## Overview
-This project demonstrates an end-to-end AWS FinOps cost analytics workflow.
+Financial Operations dashboard analyzing AWS service costs using Power BI and Amazon Athena.
 
-## Architecture
-Cost Explorer → S3 → Athena → QuickSight
+## Dashboard
+![AWS FinOps Dashboard](AWS_Costs_Analysis_.jpeg)
+
+## Key Insights
+- Route 53: $164.99 (highest cost)
+- Lightsail: $54.62 
+- Athena & EC2-Other: $36.00 each
 
 ## Tools Used
-- AWS Cost Explorer
-- Amazon S3
-- Amazon Athena
-- Power BI
+- Amazon Athena (data querying)
+- Power BI (visualization)
+- AWS Cost Explorer data
 
