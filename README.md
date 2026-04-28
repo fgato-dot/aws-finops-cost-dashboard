@@ -4,7 +4,7 @@
 Financial Operations dashboard analyzing AWS service costs using Power BI and Amazon Athena.
 
 ## Dashboard
-![AWS FinOps Dashboard](AWS_Costs_Analysis_.jpeg)
+![AWS FinOps Dashboard](Screenshot_aws-cost-analyys_.jpeg)
 
 
 ## Key Insights
